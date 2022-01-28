@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
-<h3 align="center">A professional and passionate Frond-End Developer</h3>
+<h3 align="center">A professional and passionate Junior MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibabdullah01&label=Profile%20views&color=0e75b6&style=flat" alt="rakibabdullah01" /> </p>
 
